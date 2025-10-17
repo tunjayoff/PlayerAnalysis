@@ -42,8 +42,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 5.  Script'i çalıştırın.
 
 ## Katkıda Bulunanlar
-
-* Tuncay EŞSİZ (191005053)
 * Betül KIZILOBEK (191005003)
 
 ## Lisans
