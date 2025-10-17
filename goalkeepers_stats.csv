@@ -1,0 +1,61 @@
+player_name;positon;squad;age;born_year;match_played;first_eleven;minutes_played;goals_againist;shots_on_target;saves;wins;draws;loses;clean_sheets;penalty_kicks_attempts;penalty_allowed;penalty_kicks_saved;penalty_kicks_missed
+Übeyd Adıyaman;GK;Gençlerbirliği;22;1997;4;4;360;11,00;23;13;1;1;2;0;1;1;0;0
+Gökhan Akkan;GK;Rizespor;25;1995;32;32;2815;54,00;169;121;9;10;13;7;6;5;1;0
+Doğan Alemdar;GK;Kayserispor;17;2002;28;28;252;36,00;116;88;7;11;10;9;8;6;2;0
+Akın Alkan;GK;Hatayspor;31;1989;4;3;316;7,00;17;13;1;1;1;1;3;3;0;0
+Hüseyin Altıntaş;GK;Denizlispor;25;1994;3;2;229;8,00;18;11;0;0;2;0;1;1;0;0
+Yavuz Aygün;GK;Fatih Karagümrük;24;1996;1;0;4;0,00;0;0;0;0;0;0;0;0;0;0
+Volkan Babacan;GK;Başakşehir;31;1988;19;19;171;28,00;68;44;7;6;6;5;4;3;1;0
+Göktuğ Bakırbaş;GK;Erzurum BB;24;1996;3;2;221;5,00;13;8;1;0;1;0;0;0;0;0
+Altay Bayındır;GK;Fenerbahçe;22;1998;33;33;297;31,00;107;81;21;6;6;10;5;3;2;0
+Eray Birniçan;GK;Konyaspor;32;1988;10;10;900;9,00;35;27;3;4;3;4;1;1;0;0
+Ruud Boffin;GK;Antalyaspor;32;1987;35;35;3149;50,00;145;101;8;14;13;12;6;4;2;0
+Mustafa Burak Bozan;GK;Gaziantep FK;19;2000;1;1;90;0,00;4;4;1;0;0;1;0;0;0;0
+Uğurcan Çakır;GK;Trabzonspor;24;1996;38;38;342;37,00;148;118;18;13;7;13;9;7;2;0
+İrfan Can Eğribayat;GK;Göztepe;22;1998;35;35;315;48,00;145;107;13;10;12;8;11;9;1;1
+Erdem Canpolat;GK;Kasımpaşa;19;2001;1;1;90;2,00;7;6;0;0;1;0;1;0;1;0
+José Carlos Marafona;GK;Alanyaspor;33;1987;37;37;333;42,00;115;76;15;9;13;11;4;3;1;0
+Korcan Çelikay;GK;Ankaragücü;32;1987;17;16;1443;25,00;71;50;4;5;7;3;4;3;1;0
+Tarık Çetin;GK;Rizespor;23;1997;8;6;604;14,00;40;27;2;1;3;1;1;1;0;0
+İsmail Çipe;GK;Kayserispor;25;1995;5;4;405;7,00;23;18;0;2;2;1;2;2;0;0
+Abdulsamed Damlu;GK;Yeni Malatyaspor;21;1999;13;13;117;18,00;58;41;3;5;5;3;1;0;1;0
+Ersin Destanoğlu;GK;Beşiktaş;19;2001;35;35;3114;35,00;88;60;22;6;7;13;7;6;1;0
+Kayacan Erdoğan;GK;Erzurum BB;32;1988;6;5;437;9,00;27;19;1;1;3;0;1;1;0;0
+Erten Ersu;GK;Konyaspor;26;1994;1;1;90;0,00;3;3;0;1;0;1;0;0;0;0
+Fabien Farnolle;GK;Erzurum BB;35;1984;13;13;1125;23,00;57;37;2;3;8;1;3;3;0;0
+Cenk Gönen;GK;Denizlispor;32;1988;16;16;1391;25,00;62;39;5;3;8;3;2;2;0;0
+Zafer Görgen;GK;Rizespor;20;2000;2;2;180;1,00;3;2;1;1;0;1;0;0;0;0
+Mert Günok;GK;Başakşehir;31;1989;21;21;189;27,00;75;55;5;6;10;6;7;6;1;0
+Günay Güvenç;GK;Gaziantep FK;29;1991;38;38;342;48,00;163;121;14;13;11;11;7;6;0;1
+Guido Herrera;GK;Yeni Mal'spor;28;1992;3;3;270;7,00;9;3;0;1;2;0;1;1;0;0
+Ferhat Kaplan;GK;Antalyaspor;31;1989;5;5;450;6,00;18;12;1;3;1;1;0;0;0;0
+Erce Kardeşler;GK;Trabzonspor;26;1994;1;1;90;1,00;1;1;0;1;0;0;1;1;0;0
+Serkan Kırıntılı;GK;Alanyaspor;35;1985;3;3;270;4,00;14;11;2;0;1;1;1;1;0;0
+Okan Kocuk;GK;Galatasaray;25;1995;10;10;900;11,00;30;21;6;1;3;4;3;2;0;1
+Ramazan Köse;GK;Kasımpaşa;32;1988;20;20;18;27,00;79;55;6;5;9;4;3;2;1;0
+Silviu Lung Jr.;GK;Kayserispor;31;1989;8;8;675;11,00;49;39;2;1;5;2;1;0;1;0
+Balázs Megyeri;GK;Göztepe;30;1990;2;2;180;4,00;13;9;0;1;1;0;0;0;0;0
+Kağan Moradaoglu;GK;Trabzonspor;17;2003;1;1;90;0,00;1;1;1;0;0;1;0;0;0;0
+Munir;GK;Hatayspor;31;1989;37;37;3282;47,00;165;121;16;9;12;11;3;2;1;0
+Fernando Muslera;GK;Galatasaray;34;1986;22;22;198;20,00;69;54;16;3;3;9;5;4;1;0
+Kristoffer Nordfeldt;GK;Gençlerbirliği;31;1989;36;36;324;66,00;202;144;9;7;20;4;9;5;4;0
+Ahmet Oytun Özdoğan;GK;Fenerbahçe;22;1998;1;1;90;3,00;3;1;0;0;1;0;1;1;0;0
+Ertaç Özbir;GK;Yeni Malatyaspor;30;1989;24;24;216;29,00;93;69;7;9;8;5;5;4;1;0
+Arda Özçimen;GK;Göztepe;18;2002;3;3;270;7,00;17;12;0;1;2;0;2;1;1;0
+Aykut Özer;GK;Fatih Karagümrük;27;1993;9;8;781;9,00;43;35;3;3;2;4;2;0;1;1
+Fatih Öztürk;GK;Galatasaray;33;1986;8;8;720;5,00;26;21;4;2;2;4;0;0;0;0
+Costel Pantilimon;GK;Denizlispor;33;1987;15;15;135;27,00;72;48;1;5;9;2;4;3;0;1
+Ricardo;GK;Ankaragücü;27;1993;24;23;2067;39,00;92;57;6;3;14;4;4;4;0;0
+Çağlar Şahin Akbaba;GK;Gaziantep FK;25;1995;1;1;90;3,00;6;3;0;0;1;0;0;0;0;0
+Mamadou Samassa;GK;Sivasspor;30;1990;18;17;1532;20,00;50;32;4;6;7;4;2;1;1;0
+Ali Şaşal Vural;GK;Sivasspor;30;1990;20;19;1739;20,00;75;58;10;9;0;7;3;3;0;0
+Ibrahim Šehić;GK;Konyaspor;31;1988;29;29;261;40,00;112;76;9;9;11;8;5;4;0;1
+Abdülkadir Sünger;GK;Denizlispor;20;2000;7;7;630;17,00;43;30;0;2;5;0;4;2;2;0
+Jakub Szumski;GK;Erzurum BB;28;1992;20;20;1756;30,00;83;59;6;6;8;5;7;6;0;1
+Ertuğrul Taşkıran;GK;Kasımpaşa;30;1989;19;19;171;28,00;85;63;6;5;8;5;6;6;0;0
+Harun Tekin;GK;Fenerbahçe;31;1989;6;6;540;7,00;17;12;4;1;1;1;2;1;1;0
+Mert Topuz;GK;Ankaragücü;19;2001;1;1;90;1,00;9;8;0;0;1;0;0;0;0;0
+Batuhan Ünsal;GK;Erzurum BB;23;1997;1;0;58;1,00;2;1;0;0;0;0;0;0;0;0
+Emiliano Viviano;GK;Fatih Karagümrük;34;1985;32;32;2815;43,00;122;85;13;9;10;6;7;7;0;0
+Muammer Yıldırım;GK;Sivasspor;29;1990;4;4;329;1,00;14;13;2;2;0;3;0;0;0;0
+Utku Yuvakuran;GK;Beşiktaş;22;1997;6;5;483;9,00;26;19;4;0;1;2;2;2;0;0
